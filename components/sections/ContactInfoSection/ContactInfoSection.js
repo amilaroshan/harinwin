@@ -31,17 +31,17 @@ function ContactInfoSection () {
           {/* Content */}
           <div>
             <h2 className="text-3xl md:text-4xl font-bold text-[#093890] leading-tight tracking-tight mb-6">
-              Let's Connect and Simplify Travel Together
+              Let&apos;s Connect and Simplify Travel Together
             </h2>
             <p className="text-lg leading-relaxed text-gray-600 mb-8">
-              Have a question, feedback, or need a custom solution? We're here to help. Reach out and let's build something great.
+              Have a question, feedback, or need a custom solution? We&apos;re here to help. Reach out and let&apos;s build something great.
             </p>
             
             {/* Contact Info */}
             <div className="space-y-6">
               {contactInfo.map((info, index) => (
                 <div key={index} className="flex items-start">
-                  <div className={`inline-flex items-center justify-center w-10 h-10 rounded-full bg-gray-100 mr-4 flex-shrink-0`}>
+                  <div className='inline-flex items-center justify-center w-10 h-10 rounded-full bg-gray-100 mr-4 flex-shrink-0'>
                     <info.icon className={`w-5 h-5 ${info.color}`} />
                   </div>
                   <div>

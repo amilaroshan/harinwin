@@ -19,7 +19,7 @@ function ServicesDetailSection () {
     {
       id: 'flight-booking',
       category: 'Flight Booking Integration',
-      title: "Connect Traveler's to Global Flights with a Seamless Search & Book Experience",
+      title: 'Connect Traveler\'s to Global Flights with a Seamless Search & Book Experience',
       features: [
         'Multi-airline search with filter options',
         'Real-time availability & fare display',

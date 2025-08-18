@@ -6,7 +6,7 @@ function ServicesIntroSection () {
           Comprehensive Booking Solutions for Modern Travel Businesses
         </h2>
         <p className="text-lg md:text-xl leading-relaxed text-gray-600 max-w-3xl mx-auto">
-          At Harinwin, we deliver smart, scalable tools tailored to simplify how your customers book hotels, flights, and car rentals. Whether you're a travel agency, booking platform, or service provider, our tech adapts to your workflow—so you can focus on growth.
+          At Harinwin, we deliver smart, scalable tools tailored to simplify how your customers book hotels, flights, and car rentals. Whether you&apos;re a travel agency, booking platform, or service provider, our tech adapts to your workflow—so you can focus on growth.
         </p>
       </div>
     </section>

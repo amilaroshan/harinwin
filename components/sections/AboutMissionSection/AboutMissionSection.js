@@ -6,7 +6,7 @@ function AboutMissionSection () {
           Our Mission
         </h2>
         <p className="text-lg md:text-xl leading-relaxed text-gray-700 max-w-3xl mx-auto">
-          At Harinwin, our mission is to simplify the complexities of travel management for businesses and their customers. We're passionate about crafting seamless booking experiences that save time, improve reliability, and enhance customer satisfaction.
+          At Harinwin, our mission is to simplify the complexities of travel management for businesses and their customers. We&apos;re passionate about crafting seamless booking experiences that save time, improve reliability, and enhance customer satisfaction.
         </p>
       </div>
     </section>
