@@ -15,7 +15,7 @@ function HeroSection () {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 py-12 sm:py-16 md:py-20 md:pb-0 relative z-10 flex-1 flex flex-col justify-center">
         <div className="text-center">
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-extrabold text-primary leading-tight tracking-tight mb-4 sm:mb-6 max-w-4xl mx-auto">
-            Streamline Your Travel Booking Experience Today
+            Streamline Your Travel Booking Experience Now
           </h1>
           <p className="text-base sm:text-lg leading-relaxed text-gray-600 mb-8 sm:mb-10 max-w-2xl mx-auto">
             Our expert maintenance services ensure your booking system runs smoothly, allowing you to focus on providing exceptional travel experiences.
